@@ -1,2 +1,2 @@
 # FirstGitproject
-Trial on Git
+Projects executed in Python
